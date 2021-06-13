@@ -1,6 +1,6 @@
 ### General info
 
-Color Tool app made using Vanilla HTML, CSS, and Javascript.
+Color Tool app created using Vanilla HTML, CSS, and Javascript.
 
 #### Key Concepts
 
